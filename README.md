@@ -1,9 +1,9 @@
 # Netflix-Data-Exploration-SQL
-SQL analysis of Netflix dataset
+SQL analysis of the Netflix dataset
 
 # Running instructions
 
-Create database using:
+Create the database using:
 ```
 .\setup.ps1
 ```
